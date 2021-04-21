@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tlj77
-- 👀 I’m interested in everything.
+- 👀 I’m an Engineer in Google.
 - 🌱 I’m currently learning everything.
-- 💞️ I’m looking to collaborate on teaching people.
+- 💞️ I’m looking to collaborate on education.
 - 📫 How to reach me: message.
 
 <!---
