@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tlj77
-- 👀 I’m a Google Engineer.
-- 🌱 I’m currently learning everything.
-- 💞️ I’m looking to collaborate on education.
+- 👀 I’m a Software Engineer in Google.
+- 🌱 I’m always learning everything.
+- 💞️ I’m looking to collaborate on business.
 - 📫 How to reach me: message.
 
 <!---
