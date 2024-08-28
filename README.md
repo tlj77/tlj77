@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tlj77
+- 👋 Hi, I’m LiJie
 - 👀 I’m a Software Engineer in Meta.
 - 📫 How to reach me: message.
 
